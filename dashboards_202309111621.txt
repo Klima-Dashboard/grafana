@@ -1,0 +1,67 @@
+uid/pP0dUYy4z	Alle Daten Auskunftsplattform Wasser (APW)
+uid/8ysZPYsVz	Alle Daten Deutscher Wetterdienst (DWD)
+uid/pMxSEoPVk	Alle Daten Energieagentur Brandenburg
+uid/sTGQLLs4z	Alle Daten Landesvermessung und Geobasisinformation Brandenburg (LGB)
+uid/mMAbwLsVz	Alle Daten Lokale Feinstaub-Daten (Community-Daten)
+uid/DaEjwYsVz	Alle Daten Open Data Neuss
+uid/RMMkyYsVk	Alle Daten OpenSenseMap
+uid/FDOksUwVk	Alle Daten Regionaldatenbank
+uid/_Au5I4r4z	Allgemeines-Dashboard
+uid/kPDXwr5Vz	Arensnest Hausweide
+uid/9H0Hyrc4z	Arensnest Heuweide
+uid/vqJawhbVk	Belzig,Weg Richt. Hagelberg,OP
+uid/fvuuNSfVz	Belzig,Weg Richt. Hagelberg,OP(GOK)
+uid/08gM25QVz	Betriebe
+uid/f_5a15QVk	Betriebe mit Viehhaltung
+uid/OopwqMuVz	CO2 per Capita
+uid/h2x-HdoVk	Community-Daten
+uid/fvqi6d1Vz	DEVELOPMENT
+uid/DkLneas4k	E-Mobilität, Ladestationen im Fläming
+uid/FgabrasVz	Einwohner & Beschäftigung
+uid/8iIwKNlVk	Einwohner & Beschäftigung Startseitenwidgets
+uid/4dX8o-yVk	Energie & Wärme
+uid/TAKmIVrVz	Energie-Dashboard
+uid/x5zduNl4z	Extremtage
+uid/cmNmxnCVz	Fehler-Monitoring
+uid/EZqKh5w4z	Flächenentwicklung
+uid/4YVtIcx4z	Flächennutzung
+uid/1_xiusU4k	Flächennutzung
+uid/7ucQScw4z	Flächennutzung
+uid/s8zx5plVk	Flächennutzung über 10 Jahre
+uid/zUQZv784k	GeoJSON
+uid/8vyFGVkIk	Geomap Sensoren
+uid/MovI_dC4z	Heartbeat-Monitoring
+uid/4ITqBVkSk	heatmap
+uid/pfHmuel4k	Historische Temperaturanomalien
+uid/31jmSV94k	Klimawissen-Dashboard
+uid/KwagDBuVz	Krause-Tscheschog Oberschule
+uid/ZgedIRuVz	Kronenverlichtung
+uid/RPLxvRu4z	Kumulative Klimatische Wasserbilanz Weitzgrund 2021
+uid/mupkS4r4z	Landschaft-Dashboard
+uid/BLGMI49Vz	Mobilität-Dashboard
+uid/W05GiA54k	Naturparkzentrum Raben
+uid/1UCIC43Vz	New dashboard
+uid/pVrl5b1Vz	Niederschlag
+uid/HZ_ffb14z	Niederschlag im Monatsvergleich
+uid/opZOcgu4z	Phänologie
+uid/Yl6E_Ys4z	PKW
+uid/DqwfrUwVk	Schadstufen
+uid/mh1R205Vk	Schlosspark Wiesenburg - no data
+uid/_7-okRX4z	Sensor-Community
+uid/bKSFqNkIz	Sensordaten
+uid/Pi97qr54z	Sensthof - no data
+uid/VYSso9fVk	Startseite
+uid/Sk8YFN_Vz	Temperatur
+uid/0G3RFKlVk	Temperatur im Monatsvergleich
+uid/wmk7cKl4z	Temperatur und Niederschlag im Monatsvergleich
+uid/mP1v1dTVk	Temperatur-Karte
+uid/G2ium-sVk	Visualisierungsvorlagen
+uid/xFuNsN_Vk	Waldbrandgefahrenindex
+uid/-78zSz94z	Wasser-Dashboard
+uid/MxQgrr5Vk	Wiesenburg Schlosspark
+uid/iCZSw2xVz	Wiesenburg, Am Postplatz
+uid/1jeaxYy4z	Windanlagen
+uid/oMhnfSo4k	Zukunftsschusterei
+uid/q4YgNVr4k	Übersicht - Kreisdaten / Landesdaten (Potsdam-Mittelmark / Brandenburg)
+uid/lxjGN4rVz	Übersicht - Nationale und globale Daten
+uid/e4vXS494k	Übersicht - Sensornetzwerk Bad-Belzig
